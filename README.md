@@ -43,3 +43,21 @@ python object_detection/export_inference_graph.py --input_type=image_tensor \
   cameras that was found.
 - From the video feed, if a heart gesture is detected, a heart will be resized
   to the size of the box and overlaid onto the heart gesture.
+
+### Execution Instructions
+- Clone the repository:
+  ```
+  git clone https://github.com/Dayzpd/tensorflow_object_detection.git
+  ```
+- Create a virtual environment inside the cloned repository:
+  ```
+  virtualenv [env_name]
+  ```
+- Install requirements:
+  ```
+  pip install -r requirements.txt
+  ```
+- Run the program:
+  ```
+  python heart_gesture_detection.py
+  ```
