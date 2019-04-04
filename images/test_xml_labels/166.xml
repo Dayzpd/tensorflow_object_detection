@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>166.jpg</filename>
+	<path>D:\Projects\Python\tensorflow_object_detection\images\test\166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heart gesture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>242</ymin>
+			<xmax>191</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>heart gesture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>223</ymin>
+			<xmax>359</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

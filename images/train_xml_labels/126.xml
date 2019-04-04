@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>126.jpg</filename>
+	<path>D:\Projects\Python\tensorflow_object_detection\images\train\126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>513</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heart gesture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>161</ymin>
+			<xmax>140</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>heart gesture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>220</ymin>
+			<xmax>382</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>
